@@ -1,0 +1,604 @@
+Body: { username: 'admin1', password: 'Admin123' }
+Username: admin1
+Password: Admin123
+User found: YES
+Hash: $2b$10$J6BGK9rPTyfW2...
+=== END DEBUG ===
+
+info: Response: POST /api/v1/auth/login - Status: 401 - 212ms {"duration":"212ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-25 19:40:22"}
+✅ Database models synchronized
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (10) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-25 19:40:31"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-25 19:40:31"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-25 19:40:31"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ MySQL Database connected successfully
+✅ Database models synchronized
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (10) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\router\lib\route.js:228
+        throw new TypeError('argument handler must be a function')
+        ^
+
+TypeError: argument handler must be a function
+    at Route.<computed> [as post] (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\router\lib\route.js:228:15)   
+    at Router.<computed> [as post] (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\router\index.js:448:19)      
+    at Object.<anonymous> (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\src\routes\authRoutes.js:46:8)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+
+Node.js v22.11.0
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (10) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\router\lib\route.js:228
+        throw new TypeError('argument handler must be a function')
+        ^
+
+TypeError: argument handler must be a function
+    at Route.<computed> [as post] (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\router\lib\route.js:228:15)   
+    at Router.<computed> [as post] (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\router\index.js:448:19)      
+    at Object.<anonymous> (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\src\routes\authRoutes.js:46:8)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+
+Node.js v22.11.0
+[nodemon] app crashed - waiting for file changes before starting...
+
+ *  History restored 
+Compiled successfully!
+
+You can now view rbac-api-demo in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.56.1:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+
+ *  History restored 
+
+PS C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai> cd .\rbac-backend\ 
+PS C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend> npm run dev
+
+> rbac-backend@1.0.0 dev
+> nodemon src/server.js
+
+[nodemon] 3.1.11
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,cjs,json
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { overriide: true }
+C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\src\routes\productRoutes.js:150
+router.delete('/:id', protect, authorize('admin'), deleteProduct);
+                               ^
+
+routes\productRoutes.js:150:32)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\src\server.js:14:23)
+
+Node.js v22.11.0
+[nodemon] app crashed - waiting for file changes before starting...
+PS C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend> npm run dev
+
+> rbac-backend@1.0.0 dev
+> nodemon src/server.js
+
+[nodemon] 3.1.11
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,cjs,json
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\src\routes\userRoutes.js:15
+router.use(authorize('admin'));
+           ^
+
+TypeError: authorize is not a function
+    at Object.<anonymous> (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\src\routes\userRoutes.js:15:12)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\src\server.js:15:20)
+
+Node.js v22.11.0
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-26 11:10:59"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-26 11:10:59"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-26 11:10:59"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ MySQL Database connected successfully
+✅ Database models synchronized
+Database connected successfully
+info: GET /api-docs/ {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:11:44","url":"/api-docs/"}
+info: GET /api-docs/swagger-ui.css {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:11:44","url":"/api-docs/swagger-ui.css"}
+info: GET /api-docs/swagger-ui-bundle.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:11:44","url":"/api-docs/swagger-ui-bundle.js"}
+info: GET /api-docs/swagger-ui-standalone-preset.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:11:44","url":"/api-docs/swagger-ui-standalone-preset.js"}
+info: GET /api-docs/swagger-ui-init.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:11:44","url":"/api-docs/swagger-ui-init.js"}
+info: GET /api-docs/favicon-32x32.png {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:11:44","url":"/api-docs/favicon-32x32.png"}
+info: POST /api/v1/auth/register {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:12:32","url":"/api/v1/auth/register"}
+info: Response: POST /api/v1/auth/register - Status: 400 - 14ms {"duration":"14ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:12:32"}
+info: POST /api/v1/auth/login {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:13:04","url":"/api/v1/auth/login"}
+info: Response: POST /api/v1/auth/login - Status: 401 - 181ms {"duration":"181ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:13:04"}
+info: POST /api/v1/auth/login {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:13:22","url":"/api/v1/auth/login"}
+info: Response: POST /api/v1/auth/login - Status: 401 - 182ms {"duration":"182ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:13:22"}
+info: POST /api/v1/auth/register {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:13:54","url":"/api/v1/auth/register"}
+info: Response: POST /api/v1/auth/register - Status: 400 - 2ms {"duration":"2ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:13:54"}
+info: POST /api/v1/auth/register {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:14:56","url":"/api/v1/auth/register"}
+info: [AUTH] New user registered: user (ID: 5) {"service":"rbac-api","timestamp":"2025-11-26 11:14:57"}
+info: Response: POST /api/v1/auth/register - Status: 201 - 344ms {"duration":"344ms","service":"rbac-api","statusCode":201,"success":true,"timestamp":"2025-11-26 11:14:57"}
+info: POST /api/v1/auth/login {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:16:29","url":"/api/v1/auth/login"}
+info: Response: POST /api/v1/auth/login - Status: 401 - 150ms {"duration":"150ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:16:29"}
+info: POST /api/v1/auth/login {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:17:08","url":"/api/v1/auth/login"}
+info: Response: POST /api/v1/auth/login - Status: 401 - 145ms {"duration":"145ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:17:08"}
+info: POST /api/v1/auth/login {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:19:05","url":"/api/v1/auth/login"}
+info: Response: POST /api/v1/auth/login - Status: 401 - 170ms {"duration":"170ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:19:05"}
+info: GET /api-docs/ {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:19:09","url":"/api-docs/"}
+info: GET /api-docs/swagger-ui.css {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:19:09","url":"/api-docs/swagger-ui.css"}
+info: GET /api-docs/swagger-ui-standalone-preset.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:19:09","url":"/api-docs/swagger-ui-standalone-preset.js"}
+info: GET /api-docs/swagger-ui-bundle.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:19:09","url":"/api-docs/swagger-ui-bundle.js"}
+info: GET /api-docs/swagger-ui-init.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:19:09","url":"/api-docs/swagger-ui-init.js"}
+info: GET /api-docs/favicon-32x32.png {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:19:09","url":"/api-docs/favicon-32x32.png"}
+info: POST /api/v1/auth/login {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:19:33","url":"/api/v1/auth/login"}
+info: Response: POST /api/v1/auth/login - Status: 401 - 184ms {"duration":"184ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:19:33"}
+info: POST /api/v1/auth/login {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:19:45","url":"/api/v1/auth/login"}
+info: Response: POST /api/v1/auth/login - Status: 401 - 188ms {"duration":"188ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:19:46"}
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-26 11:21:11"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-26 11:21:11"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-26 11:21:11"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ MySQL Database connected successfully
+✅ Database models synchronized
+Database connected successfully
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-26 11:21:49"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-26 11:21:49"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-26 11:21:49"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+info: GET /api-docs/logs {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:21:49","url":"/api-docs/logs"}
+info: GET /api-docs/swagger-ui.css {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:21:49","url":"/api-docs/swagger-ui.css"}
+info: GET /api-docs/swagger-ui-bundle.js {"ip":"::ffff:127.0.0.1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:21:49","url":"/api-docs/swagger-ui-bundle.js"}
+info: GET /api-docs/swagger-ui-standalone-preset.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:21:49","url":"/api-docs/swagger-ui-standalone-preset.js"}
+info: GET /api-docs/swagger-ui-init.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:21:49","url":"/api-docs/swagger-ui-init.js"}
+✅ MySQL Database connected successfully
+✅ Database models synchronized
+Database connected successfully
+info: GET /logs {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:22:14","url":"/logs"}
+info: Response: GET /logs - Status: 404 - 2ms {"duration":"2ms","service":"rbac-api","statusCode":404,"success":false,"timestamp":"2025-11-26 11:22:14"}
+info: GET /favicon.ico {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:22:14","url":"/favicon.ico"}
+info: Response: GET /favicon.ico - Status: 404 - 0ms {"duration":"0ms","service":"rbac-api","statusCode":404,"success":false,"timestamp":"2025-11-26 11:22:14"}
+info: GET /logs {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:22:16","url":"/logs"}
+info: Response: GET /logs - Status: 404 - 0ms {"duration":"0ms","service":"rbac-api","statusCode":404,"success":false,"timestamp":"2025-11-26 11:22:16"}
+info: GET /logs {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:22:18","url":"/logs"}
+info: Response: GET /logs - Status: 404 - 0ms {"duration":"0ms","service":"rbac-api","statusCode":404,"success":false,"timestamp":"2025-11-26 11:22:18"}
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-26 11:23:05"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-26 11:23:05"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-26 11:23:05"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ MySQL Database connected successfully
+✅ Database models synchronized
+Database connected successfully
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-26 11:23:25"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-26 11:23:25"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-26 11:23:25"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ MySQL Database connected successfully
+✅ Database models synchronized
+Database connected successfully
+info: GET /api-docs/logs {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:33","url":"/api-docs/logs"}
+info: GET /api-docs/swagger-ui.css {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:33","url":"/api-docs/swagger-ui.css"}
+info: GET /api-docs/swagger-ui-bundle.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:33","url":"/api-docs/swagger-ui-bundle.js"}
+info: GET /api-docs/swagger-ui-standalone-preset.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:33","url":"/api-docs/swagger-ui-standalone-preset.js"}
+info: GET /api-docs/swagger-ui-init.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:33","url":"/api-docs/swagger-ui-init.js"}
+info: GET /api-docs/favicon-32x32.png {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/favicon-32x32.png"}
+info: GET /api-docs/logs {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/logs"}
+info: GET /api-docs/swagger-ui.css {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/swagger-ui.css"}
+info: GET /api-docs/swagger-ui-bundle.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/swagger-ui-bundle.js"}
+info: GET /api-docs/swagger-ui-standalone-preset.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/swagger-ui-standalone-preset.js"}
+info: GET /api-docs/swagger-ui-init.js {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/swagger-ui-init.js"}
+info: GET /api-docs/favicon-32x32.png {"ip":"::1","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/favicon-32x32.png"}
+info: POST /api/v1/auth/register {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:23:44","url":"/api/v1/auth/register"}
+info: Response: POST /api/v1/auth/register - Status: 400 - 13ms {"duration":"13ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:23:44"}
+info: POST /api/v1/auth/register {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:23:45","url":"/api/v1/auth/register"}
+info: Response: POST /api/v1/auth/register - Status: 400 - 6ms {"duration":"6ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:23:45"}
+info: POST /api/v1/auth/register {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:23:45","url":"/api/v1/auth/register"}
+info: Response: POST /api/v1/auth/register - Status: 400 - 2ms {"duration":"2ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:23:45"}
+info: POST /api/v1/auth/register {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:23:46","url":"/api/v1/auth/register"}
+info: Response: POST /api/v1/auth/register - Status: 400 - 2ms {"duration":"2ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:23:46"}
+info: POST /api/v1/auth/register {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:23:46","url":"/api/v1/auth/register"}
+info: Response: POST /api/v1/auth/register - Status: 400 - 2ms {"duration":"2ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:23:46"}
+info: POST /api/v1/auth/login {"ip":"::1","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:24:02","url":"/api/v1/auth/login"}
+info: Response: POST /api/v1/auth/login - Status: 401 - 260ms {"duration":"260ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:24:03"}
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: ⚙️  override existing env vars with { override: true }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-26 11:26:47"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-26 11:26:47"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-26 11:26:47"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ MySQL Database connected successfully
+✅ Database models synchronized
+Database connected successfully
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-26 11:33:18"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-26 11:33:18"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-26 11:33:18"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ MySQL Database connected successfully
+✅ Database models synchronized
+Database connected successfully
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-26 11:33:47"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-26 11:33:47"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-26 11:33:47"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ MySQL Database connected successfully
+✅ Database models synchronized
+Database connected successfully
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-26 11:34:13"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-26 11:34:13"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-26 11:34:13"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ MySQL Database connected successfully
+✅ Database models synchronized
+Database connected successfully
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-26 11:34:35"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-26 11:34:35"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-26 11:34:35"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ MySQL Database connected successfully
+✅ Database models synchronized
+Database connected successfully
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-26 11:34:42"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-26 11:34:42"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-26 11:34:42"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ MySQL Database connected successfully
+✅ Database models synchronized
+Database connected successfully
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-26 11:34:54"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-26 11:34:54"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-26 11:34:54"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ MySQL Database connected successfully
+✅ Database models synchronized
+Database connected successfully
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\src\routes\userRoutes.js:15
+const express = require('express');
+      ^
+
+SyntaxError: Identifier 'express' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\src\server.js:15:20)
+
+Node.js v22.11.0
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: ⚙️  override existing env vars with { override: true }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+info: Server started on port 5000 {"service":"rbac-api","timestamp":"2025-11-26 11:35:24"}
+info: Environment: development {"service":"rbac-api","timestamp":"2025-11-26 11:35:24"}
+info: API Documentation: http://localhost:5000/api-docs {"service":"rbac-api","timestamp":"2025-11-26 11:35:24"}
+╔═══════════════════════════════════════════════════════════════════╗
+║   🚀 Server running on port 5000                              ║
+║   📚 API Docs: http://localhost:5000/api-docs               ║
+║   🔐 Environment: development                        ║
+║   📝 Logs Directory: /logs                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ MySQL Database connected successfully
+❌ Unable to connect to database: Too many keys specified; max 64 keys allowed
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+✅ Server running on http://localhost:5000
+📚 API Docs: http://localhost:5000/api-docs
+✅ MySQL Database connected successfully
+❌ Unable to connect to database: Too many keys specified; max 64 keys allowed
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+✅ Server running on http://localhost:5000
+📚 API Docs: http://localhost:5000/api-docs
+✅ MySQL Database connected successfully
+❌ Unable to connect to database: Too many keys specified; max 64 keys allowed
+[nodemon] app crashed - waiting for file changes before starting...
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+✅ Server running on http://localhost:5000
+📚 API Docs: http://localhost:5000/api-docs
+✅ MySQL connected successfully
+✅ Database synced
+[AUTH] User registered: uuu
+info: [PRODUCT] New product created: lenvo (ID: 2) by user 6 {"service":"rbac-api","timestamp":"2025-11-26 11:39:05"}
+info: [PRODUCT] Product updated: lenvo (ID: 2) by user 6 {"service":"rbac-api","timestamp":"2025-11-26 11:39:48"}
+Registration error: ValidationError [SequelizeValidationError]: Validation error: Validation len on username failed
+    at InstanceValidator._validate (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\instance-validator.js:50:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async InstanceValidator._validateAndRunHooks (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\instance-validator.js:60:7)
+    at async InstanceValidator.validate (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\instance-validator.js:54:12)
+    at async model.save (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\model.js:2426:7)
+    at async User.create (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\model.js:1362:12)        
+    at async exports.register (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\src\controllers\authController.js:40:21) {     
+  errors: [
+    ValidationErrorItem {
+      message: 'Validation len on username failed',
+      type: 'Validation error',
+      path: 'username',
+      value: 'u',
+      origin: 'FUNCTION',
+      instance: [User],
+      validatorKey: 'len',
+      validatorName: 'len',
+      validatorArgs: [Array],
+      original: [Error]
+    }
+  ]
+}
+Registration error: ValidationError [SequelizeValidationError]: Validation error: Validation len on username failed
+    at InstanceValidator._validate (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\instance-validator.js:50:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async InstanceValidator._validateAndRunHooks (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\instance-validator.js:60:7)
+    at async InstanceValidator.validate (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\instance-validator.js:54:12)
+    at async model.save (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\model.js:2426:7)
+    at async User.create (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\model.js:1362:12)        
+    at async exports.register (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\src\controllers\authController.js:40:21) {     
+  errors: [
+    ValidationErrorItem {
+      message: 'Validation len on username failed',
+      type: 'Validation error',
+      path: 'username',
+      value: 'u1',
+      origin: 'FUNCTION',
+      instance: [User],
+      validatorKey: 'len',
+      validatorName: 'len',
+      validatorArgs: [Array],
+      original: [Error]
+    }
+  ]
+}
+Registration error: ValidationError [SequelizeValidationError]: Validation error: Validation len on username failed
+    at InstanceValidator._validate (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\instance-validator.js:50:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async InstanceValidator._validateAndRunHooks (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\instance-validator.js:60:7)
+    at async InstanceValidator.validate (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\instance-validator.js:54:12)
+    at async model.save (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\model.js:2426:7)
+    at async User.create (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\node_modules\sequelize\lib\model.js:1362:12)        
+    at async exports.register (C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend\src\controllers\authController.js:40:21) {     
+  errors: [
+    ValidationErrorItem {
+      message: 'Validation len on username failed',
+      type: 'Validation error',
+      path: 'username',
+      value: 'u1',
+      origin: 'FUNCTION',
+      instance: [User],
+      validatorKey: 'len',
+      validatorName: 'len',
+      validatorArgs: [Array],
+      original: [Error]
+    }
+  ]
+}
+[AUTH] User registered: tesy
+[AUTH] User logged in: tesy
+PS C:\Users\LENOVO\Desktop\ALL\intership_primetrade.ai\rbac-backend> npm run dev
+
+> rbac-backend@1.0.0 dev
+> nodemon src/server.js
+
+[nodemon] 3.1.11
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,cjs,json
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+✅ Server running on http://localhost:5000
+📚 API Docs: http://localhost:5000/api-docs
+✅ MySQL connected successfully
+✅ Database synced
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+✅ Server running on http://localhost:5000
+📚 API Docs: http://localhost:5000/api-docs
+✅ MySQL connected successfully
+✅ Database synced
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+✅ Server running on http://localhost:5000
+📚 API Docs: http://localhost:5000/api-docs
+✅ MySQL connected successfully
+✅ Database synced
+[nodemon] restarting due to changes...
+[nodemon] starting `node src/server.js`
+[dotenv@17.2.3] injecting env (11) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+✅ Server running on http://localhost:5000
+📚 API Docs: http://localhost:5000/api-docs
+✅ MySQL connected successfully
+✅ Database synced
+[AUTH] User logged in: tesy
+[AUTH] User registered: adminuser
+[AUTH] User logged in: adminuser
+[AUTH] User logged in: adminuser
