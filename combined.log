@@ -1,0 +1,312 @@
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-25 19:05:27"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-25 19:05:27"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-25 19:05:27"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:27"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:27"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:27"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:27"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:28"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:29"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:31"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:33"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:35"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:37"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:39"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:41"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:43"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:45"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:47"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:49"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:52"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:54"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:56"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:05:58"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:00"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:02"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:04"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:06"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:09"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:11"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:13"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:15"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:17"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:19"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:21"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:23"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:25"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:28"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:30"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:32"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:34"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:36"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:38"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:40"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:42"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:44"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:46"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:48"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:51"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:53"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:55"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:57"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:06:59"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:01"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:03"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:05"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:07"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:09"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:11"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:14"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:16"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:18"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:20"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:22"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:24"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:26"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:28"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:30"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:33"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:35"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:37"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:39"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:41"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:43"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:45"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:47"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:49"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:51"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:53"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:55"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:07:57"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:00"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:02"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:04"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:06"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:08"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:10"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:12"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:14"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:16"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:19"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:21"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:23"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:25"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:27"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:29"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:31"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:34"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:36"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:38"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:40"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:42"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:44"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:46"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:49"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:51"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:53"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:55"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:57"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:08:59"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:01"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:03"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:06"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:08"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:10"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:12"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:14"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:16"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:18"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:20"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:22"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:25"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:27"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:29"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:31"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:33"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:35"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:37"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:39"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:41"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:44"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:46"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:48"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:50"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:52"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:54"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:56"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:09:58"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:10:00"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:10:03"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:10:05"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:10:07"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:10:09"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-25 19:10:45"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-25 19:10:45"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-25 19:10:45"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:10:45"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:10:45"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:10:46"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:10:46"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:10:47"}
+{"level":"warn","message":"Redis connection error - Running without cache","service":"rbac-api","timestamp":"2025-11-25 19:10:47"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-25 19:13:49"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-25 19:13:49"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-25 19:13:49"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-25 19:15:39"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-25 19:15:39"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-25 19:15:39"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-25 19:16:02","url":"/api/v1/auth/login"}
+{"level":"info","message":"Login attempt for username: admin1","service":"rbac-api","timestamp":"2025-11-25 19:16:02"}
+{"level":"error","message":"Login error logger.auth is not a function","service":"rbac-api","stack":"TypeError: logger.auth is not a function\n    at exports.login (C:\\Users\\LENOVO\\Desktop\\ALL\\intership_primetrade.ai\\rbac-backend\\src\\controllers\\authController.js:80:14)","timestamp":"2025-11-25 19:16:02"}
+{"duration":"226ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 500 - 226ms","service":"rbac-api","statusCode":500,"success":false,"timestamp":"2025-11-25 19:16:02"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-25 19:18:02"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-25 19:18:02"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-25 19:18:02"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-25 19:18:07","url":"/api/v1/auth/login"}
+{"level":"info","message":"Login attempt for username: admin1","service":"rbac-api","timestamp":"2025-11-25 19:18:07"}
+{"level":"warn","message":"[AUTH] Login failed - Invalid password: admin1","service":"rbac-api","timestamp":"2025-11-25 19:18:07"}
+{"duration":"207ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 207ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-25 19:18:07"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-25 19:23:37","url":"/api/v1/auth/login"}
+{"level":"info","message":"Login attempt for username: admin1","service":"rbac-api","timestamp":"2025-11-25 19:23:37"}
+{"level":"warn","message":"[AUTH] Login failed - Invalid password: admin1","service":"rbac-api","timestamp":"2025-11-25 19:23:37"}
+{"duration":"264ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 264ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-25 19:23:37"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-25 19:27:27","url":"/api/v1/auth/login"}
+{"level":"info","message":"Login attempt for username: admin1","service":"rbac-api","timestamp":"2025-11-25 19:27:27"}
+{"level":"warn","message":"[AUTH] Login failed - Invalid password: admin1","service":"rbac-api","timestamp":"2025-11-25 19:27:27"}
+{"duration":"194ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 194ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-25 19:27:27"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-25 19:27:43","url":"/api/v1/auth/login"}
+{"level":"info","message":"Login attempt for username: admin1","service":"rbac-api","timestamp":"2025-11-25 19:27:43"}
+{"level":"warn","message":"[AUTH] Login failed - Invalid password: admin1","service":"rbac-api","timestamp":"2025-11-25 19:27:43"}
+{"duration":"187ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 187ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-25 19:27:43"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-25 19:35:41"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-25 19:35:41"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-25 19:35:41"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-25 19:35:46","url":"/api/v1/auth/login"}
+{"level":"info","message":"Login attempt for username: admin1","service":"rbac-api","timestamp":"2025-11-25 19:35:46"}
+{"duration":"195ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 195ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-25 19:35:46"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-25 19:35:55","url":"/api/v1/auth/login"}
+{"level":"info","message":"Login attempt for username: admin1","service":"rbac-api","timestamp":"2025-11-25 19:35:55"}
+{"duration":"162ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 162ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-25 19:35:56"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-25 19:35:58","url":"/api/v1/auth/login"}
+{"level":"info","message":"Login attempt for username: admin1","service":"rbac-api","timestamp":"2025-11-25 19:35:58"}
+{"duration":"177ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 177ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-25 19:35:59"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-25 19:40:21"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-25 19:40:21"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-25 19:40:21"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-25 19:40:21","url":"/api/v1/auth/login"}
+{"level":"info","message":"Login attempt for username: admin1","service":"rbac-api","timestamp":"2025-11-25 19:40:21"}
+{"duration":"212ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 212ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-25 19:40:22"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-25 19:40:31"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-25 19:40:31"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-25 19:40:31"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-26 11:10:59"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-26 11:10:59"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-26 11:10:59"}
+{"ip":"::1","level":"info","message":"GET /api-docs/","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:11:44","url":"/api-docs/"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui.css","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:11:44","url":"/api-docs/swagger-ui.css"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-bundle.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:11:44","url":"/api-docs/swagger-ui-bundle.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:11:44","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-init.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:11:44","url":"/api-docs/swagger-ui-init.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/favicon-32x32.png","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:11:44","url":"/api-docs/favicon-32x32.png"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/register","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:12:32","url":"/api/v1/auth/register"}
+{"duration":"14ms","level":"info","message":"Response: POST /api/v1/auth/register - Status: 400 - 14ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:12:32"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:13:04","url":"/api/v1/auth/login"}
+{"duration":"181ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 181ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:13:04"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:13:22","url":"/api/v1/auth/login"}
+{"duration":"182ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 182ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:13:22"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/register","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:13:54","url":"/api/v1/auth/register"}
+{"duration":"2ms","level":"info","message":"Response: POST /api/v1/auth/register - Status: 400 - 2ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:13:54"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/register","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:14:56","url":"/api/v1/auth/register"}
+{"level":"info","message":"[AUTH] New user registered: user (ID: 5)","service":"rbac-api","timestamp":"2025-11-26 11:14:57"}
+{"duration":"344ms","level":"info","message":"Response: POST /api/v1/auth/register - Status: 201 - 344ms","service":"rbac-api","statusCode":201,"success":true,"timestamp":"2025-11-26 11:14:57"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:16:29","url":"/api/v1/auth/login"}
+{"duration":"150ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 150ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:16:29"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:17:08","url":"/api/v1/auth/login"}
+{"duration":"145ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 145ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:17:08"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:19:05","url":"/api/v1/auth/login"}
+{"duration":"170ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 170ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:19:05"}
+{"ip":"::1","level":"info","message":"GET /api-docs/","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:19:09","url":"/api-docs/"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui.css","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:19:09","url":"/api-docs/swagger-ui.css"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:19:09","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-bundle.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:19:09","url":"/api-docs/swagger-ui-bundle.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-init.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:19:09","url":"/api-docs/swagger-ui-init.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/favicon-32x32.png","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:19:09","url":"/api-docs/favicon-32x32.png"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:19:33","url":"/api/v1/auth/login"}
+{"duration":"184ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 184ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:19:33"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:19:45","url":"/api/v1/auth/login"}
+{"duration":"188ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 188ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:19:46"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-26 11:21:11"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-26 11:21:11"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-26 11:21:11"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-26 11:21:49"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-26 11:21:49"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-26 11:21:49"}
+{"ip":"::1","level":"info","message":"GET /api-docs/logs","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:21:49","url":"/api-docs/logs"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui.css","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:21:49","url":"/api-docs/swagger-ui.css"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api-docs/swagger-ui-bundle.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:21:49","url":"/api-docs/swagger-ui-bundle.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:21:49","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-init.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:21:49","url":"/api-docs/swagger-ui-init.js"}
+{"ip":"::1","level":"info","message":"GET /logs","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:22:14","url":"/logs"}
+{"duration":"2ms","level":"info","message":"Response: GET /logs - Status: 404 - 2ms","service":"rbac-api","statusCode":404,"success":false,"timestamp":"2025-11-26 11:22:14"}
+{"ip":"::1","level":"info","message":"GET /favicon.ico","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:22:14","url":"/favicon.ico"}
+{"duration":"0ms","level":"info","message":"Response: GET /favicon.ico - Status: 404 - 0ms","service":"rbac-api","statusCode":404,"success":false,"timestamp":"2025-11-26 11:22:14"}
+{"ip":"::1","level":"info","message":"GET /logs","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:22:16","url":"/logs"}
+{"duration":"0ms","level":"info","message":"Response: GET /logs - Status: 404 - 0ms","service":"rbac-api","statusCode":404,"success":false,"timestamp":"2025-11-26 11:22:16"}
+{"ip":"::1","level":"info","message":"GET /logs","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:22:18","url":"/logs"}
+{"duration":"0ms","level":"info","message":"Response: GET /logs - Status: 404 - 0ms","service":"rbac-api","statusCode":404,"success":false,"timestamp":"2025-11-26 11:22:18"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-26 11:23:05"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-26 11:23:05"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-26 11:23:05"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-26 11:23:25"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-26 11:23:25"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-26 11:23:25"}
+{"ip":"::1","level":"info","message":"GET /api-docs/logs","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:33","url":"/api-docs/logs"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui.css","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:33","url":"/api-docs/swagger-ui.css"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-bundle.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:33","url":"/api-docs/swagger-ui-bundle.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:33","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-init.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:33","url":"/api-docs/swagger-ui-init.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/favicon-32x32.png","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/favicon-32x32.png"}
+{"ip":"::1","level":"info","message":"GET /api-docs/logs","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/logs"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui.css","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/swagger-ui.css"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-bundle.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/swagger-ui-bundle.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-init.js","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/swagger-ui-init.js"}
+{"ip":"::1","level":"info","message":"GET /api-docs/favicon-32x32.png","method":"GET","service":"rbac-api","timestamp":"2025-11-26 11:23:34","url":"/api-docs/favicon-32x32.png"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/register","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:23:44","url":"/api/v1/auth/register"}
+{"duration":"13ms","level":"info","message":"Response: POST /api/v1/auth/register - Status: 400 - 13ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:23:44"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/register","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:23:45","url":"/api/v1/auth/register"}
+{"duration":"6ms","level":"info","message":"Response: POST /api/v1/auth/register - Status: 400 - 6ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:23:45"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/register","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:23:45","url":"/api/v1/auth/register"}
+{"duration":"2ms","level":"info","message":"Response: POST /api/v1/auth/register - Status: 400 - 2ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:23:45"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/register","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:23:46","url":"/api/v1/auth/register"}
+{"duration":"2ms","level":"info","message":"Response: POST /api/v1/auth/register - Status: 400 - 2ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:23:46"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/register","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:23:46","url":"/api/v1/auth/register"}
+{"duration":"2ms","level":"info","message":"Response: POST /api/v1/auth/register - Status: 400 - 2ms","service":"rbac-api","statusCode":400,"success":false,"timestamp":"2025-11-26 11:23:46"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","method":"POST","service":"rbac-api","timestamp":"2025-11-26 11:24:02","url":"/api/v1/auth/login"}
+{"duration":"260ms","level":"info","message":"Response: POST /api/v1/auth/login - Status: 401 - 260ms","service":"rbac-api","statusCode":401,"success":false,"timestamp":"2025-11-26 11:24:03"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-26 11:26:47"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-26 11:26:47"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-26 11:26:47"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-26 11:33:18"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-26 11:33:18"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-26 11:33:18"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-26 11:33:47"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-26 11:33:47"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-26 11:33:47"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-26 11:34:13"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-26 11:34:13"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-26 11:34:13"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-26 11:34:35"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-26 11:34:35"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-26 11:34:35"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-26 11:34:42"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-26 11:34:42"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-26 11:34:42"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-26 11:34:54"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-26 11:34:54"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-26 11:34:54"}
+{"level":"info","message":"Server started on port 5000","service":"rbac-api","timestamp":"2025-11-26 11:35:24"}
+{"level":"info","message":"Environment: development","service":"rbac-api","timestamp":"2025-11-26 11:35:24"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","service":"rbac-api","timestamp":"2025-11-26 11:35:24"}
+{"level":"info","message":"[PRODUCT] New product created: lenvo (ID: 2) by user 6","service":"rbac-api","timestamp":"2025-11-26 11:39:05"}
+{"level":"info","message":"[PRODUCT] Product updated: lenvo (ID: 2) by user 6","service":"rbac-api","timestamp":"2025-11-26 11:39:48"}
